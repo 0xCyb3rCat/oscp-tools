@@ -1,0 +1,31 @@
+No parameters specified, doing a local dump. Specify -? if you are looking for help.
+--- Session ID: 2021-06-22-14-29-21 ---
+Starting dump on 127.0.0.1
+
+** Beginning local dump **
+OS (127.0.0.1): Microsoft Windows XP Professional Service Pack 1 (Build 2600)  
+Failed to dump passwords: Current directory for pwdump is C:\WINDOWS\TEMP
+Failed to open SCM
+
+pwdump6 Version 1.7.1 by fizzgig and the mighty group at foofus.net
+Copyright 2008 foofus.net
+
+This program is free software under the GNU
+General Public License Version 2 (GNU GPL), you can redistribute it and/or
+modify it under the terms of the GNU GPL, as published by the Free Software
+Foundation.  NO WARRANTY, EXPRESSED OR IMPLIED, IS GRANTED WITH THIS
+PROGRAM.  Please see the COPYING file included with this program
+and the GNU GPL for further details.
+
+
+
+-----Summary-----
+
+Failed servers:
+NONE
+
+Successful servers:
+127.0.0.1
+
+Total failed: 0
+Total successful: 1
